@@ -4,5 +4,6 @@
 - CodeMaid
 - XAML Styler
 - Xamarin Extensions - Syncfusion
+- Quicktype for Visual Studio(Unofficial)
 
 
